@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @Henrique-T-M, I started coding casually in 2019 and I'm currently a Computer Engineering & Data Science undergraduate. 
+## Hi, I’m Henrique Martins 👋
+
+### About me 🤠
+
+- 🧩 Software Developer at SoftExpert since May/2022, working with Backend in Java.
+- 🪲 From Jun/2021 to May/2022 I was an intern at Banrisul, where I was trained in C#, JS, HTML and SQL.
+- 🌱 I'm currently learning Spring.
+- 👀 Interested in software development in general, but mostly Backend.
 
 ___
 
-- From Jun/2021 to May/2022 I was an intern at Banrisul, where I was trained in C#, JS, HTML and SQL. 
-- Since May/2022 I've been a Junior Software Developer at SoftExpert, working with Backend in Java.
-- From college and from what I studied by myself, I've also learned Python and C.
+### How to reach me 📨
+[<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100"/>](https://www.linkedin.com/in/henrique-tadano-martins/) 
 
 ___
 
-- 👀 Interested in software development in general.
-
-- 🌱 Currently learning Spring.
-
-- 📫 How to reach me - henriquetmartins2002@gmail.com
 
 
